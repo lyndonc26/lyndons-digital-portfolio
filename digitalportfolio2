@@ -1,0 +1,39 @@
+!DOCTYPE html>
+<html lang="en">
+<head>
+  <title>Digital Portfolio</title>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.1/jquery.min.js"></script>
+  <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
+</head>
+<body>
+
+<div class="jumbotron text-center">
+  <h1>My Portfolio</h1>
+  <p>Resize this responsive page to see the effect!</p> 
+</div>
+  
+<div class="container">
+  <div class="row">
+    <div class="col-sm-4">
+      <h3>Projects</h3>
+      <p>Remember Pills Project</p>
+      <p>This project is about giving people reminders to take their pills</p>
+    </div>
+    <div class="col-sm-4">
+      <h3>Languages</h3>
+      <p>Quintessential Web Development Programming Languages</p>
+      <p>HTML, CSS, Javascript, Python, PHP</p>
+    </div>
+    <div class="col-sm-4">
+      <h3>Project Role</h3>        
+      <p>Created a PayPal button</p>
+      <p>Created a home page</p>
+    </div>
+  </div>
+</div>
+
+</body>
+</html>
